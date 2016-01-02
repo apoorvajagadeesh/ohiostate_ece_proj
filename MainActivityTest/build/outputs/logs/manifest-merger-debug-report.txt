@@ -1,0 +1,46 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml:1:55-10:132
+	xmlns:android
+		ADDED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml:1:65-123
+	package
+		ADDED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml:1:174-207
+	android:versionName
+		ADDED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml:1:148-173
+		INJECTED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml
+		INJECTED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml:1:124-147
+		INJECTED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml
+		INJECTED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml
+application
+ADDED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml:2:5-9:19
+	android:label
+		ADDED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml:2:18-50
+activity#com.osu.sensoranalytics.MainActivity
+ADDED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml:3:9-8:20
+	android:label
+		ADDED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml:3:19-51
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml:3:52-79
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml:4:13-7:29
+action#android.intent.action.MAIN
+ADDED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml:5:17-68
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml:5:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml:6:17-76
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml:6:27-74
+instrumentation#android.test.InstrumentationTestRunner
+ADDED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml:10:1-121
+	android:targetPackage
+		ADDED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml:10:72-119
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml:10:18-71
+uses-sdk
+INJECTED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml reason: use-sdk injection requested
+	android:minSdkVersion
+		INJECTED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml
+		INJECTED from /Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/AndroidManifest.xml

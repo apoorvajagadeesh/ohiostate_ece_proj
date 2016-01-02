@@ -1,0 +1,9 @@
+<stream>
+<protocol>v1</protocol>
+<at>now</at>
+<device>defaultDevice@apojosu.apojosu</device>
+<data>
+<temp>21</temp>
+<hum>58</hum>
+</data>
+</stream>

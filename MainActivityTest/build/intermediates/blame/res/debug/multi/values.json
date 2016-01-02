@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/apoorvajagadeesh/Downloads/MainActivityTest2/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/Users/apoorvajagadeesh/Downloads/MainActivityTest2/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 49,
+                        "endOffset": 102
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/apoorvajagadeesh/Downloads/MainActivityTest2/C:\\Users\\chetan\\AndroidStudioProjects\\sensoranalyticsffff\\MainActivityTest2\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/Users/apoorvajagadeesh/Downloads/MainActivityTest2/C:\\Users\\chetan\\AndroidStudioProjects\\sensoranalyticsffff\\MainActivityTest2\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 49,
+                        "endOffset": 102
+                    }
+                }
+            }
+        ]
+    }
+]

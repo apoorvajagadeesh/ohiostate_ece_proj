@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".AboutActivity" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/aboutCaption"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/about_caption" />
+
+
+            <TextView
+                android:id="@+id/aboutBuild"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/activity_vertical_margin" />
+
+            <TextView
+                android:id="@+id/aboutText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" SensorAnalytics Mobile App by,\n\n                 Apoorva Jagadeesh\n                 Chetan Joshi\n                 Kunal Kulkarni\n\n  This is a team project for Mobile App Development Course  CSE 5236 Au 2015 under Prof. Adam Champion.\n\n  It is a diagnostic tool to display the data extracted from phone supported sensors, compass, network status, maps and heart rate; along with a server upload and server side data analytics facility."/>
+
+            </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

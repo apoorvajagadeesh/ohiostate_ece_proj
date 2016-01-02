@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apoorvajagadeesh/Downloads/sensoranalytics2/libs/commons-collections4-4.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="da217367fd25e88df52ba79e47658d4cf928b0d1">
+        <dex dex="/Users/apoorvajagadeesh/Downloads/sensoranalytics2/build/intermediates/pre-dexed/debug/commons-collections4-4.0-dc7a2bcb53dd068d1e923da36607bf54e5434c83.jar" />
+    </item>
+    <item
+        jar="/Users/apoorvajagadeesh/.gradle/caches/modules-2/files-2.1/org.mapsforge/mapsforge-map-android/0.4.3/4b55aa59f9330be3e0e66e33e4057013dde54e22/mapsforge-map-android-0.4.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4b55aa59f9330be3e0e66e33e4057013dde54e22">
+        <dex dex="/Users/apoorvajagadeesh/Downloads/sensoranalytics2/build/intermediates/pre-dexed/debug/mapsforge-map-android-0.4.3-3f88320876888995937a5613c557c66572eafb1e.jar" />
+    </item>
+    <item
+        jar="/Users/apoorvajagadeesh/.gradle/caches/modules-2/files-2.1/org.mapsforge/mapsforge-map/0.4.3/fddbe49218e34903d8fac78656658a3bdc9c03c1/mapsforge-map-0.4.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="fddbe49218e34903d8fac78656658a3bdc9c03c1">
+        <dex dex="/Users/apoorvajagadeesh/Downloads/sensoranalytics2/build/intermediates/pre-dexed/debug/mapsforge-map-0.4.3-908c6c15c9bebf75cfce90575ef63c9c0c6d9d1d.jar" />
+    </item>
+    <item
+        jar="/Users/apoorvajagadeesh/.gradle/caches/modules-2/files-2.1/org.mapsforge/mapsforge-map-reader/0.4.3/898c12a9a19f3b10b9f46f0e833fecba1d783f15/mapsforge-map-reader-0.4.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="898c12a9a19f3b10b9f46f0e833fecba1d783f15">
+        <dex dex="/Users/apoorvajagadeesh/Downloads/sensoranalytics2/build/intermediates/pre-dexed/debug/mapsforge-map-reader-0.4.3-a7ef1d126ba98cf7fe4c036591c3e0b853b214d2.jar" />
+    </item>
+    <item
+        jar="/Users/apoorvajagadeesh/.gradle/caches/modules-2/files-2.1/org.mapsforge/mapsforge-core/0.4.3/f8805d5c4079a641cefe72e3b6a99fe01107bedf/mapsforge-core-0.4.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f8805d5c4079a641cefe72e3b6a99fe01107bedf">
+        <dex dex="/Users/apoorvajagadeesh/Downloads/sensoranalytics2/build/intermediates/pre-dexed/debug/mapsforge-core-0.4.3-e17377f974a9f6e946b3ad628a883e5d5391ae87.jar" />
+    </item>
+    <item
+        jar="/Users/apoorvajagadeesh/.gradle/caches/modules-2/files-2.1/net.sf.kxml/kxml2/2.3.0/ccbc77a5fd907ef863c29f3596c6f54ffa4e9442/kxml2-2.3.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ccbc77a5fd907ef863c29f3596c6f54ffa4e9442">
+        <dex dex="/Users/apoorvajagadeesh/Downloads/sensoranalytics2/build/intermediates/pre-dexed/debug/kxml2-2.3.0-95a8902cdfc453c6aa4d66a74d5c83aeeb84aebf.jar" />
+    </item>
+    <item
+        jar="/Users/apoorvajagadeesh/.gradle/caches/modules-2/files-2.1/org.mapsforge/svg-android/0.4.3/13e5211dd53a95aedbbd138b69955810c3d48433/svg-android-0.4.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="13e5211dd53a95aedbbd138b69955810c3d48433">
+        <dex dex="/Users/apoorvajagadeesh/Downloads/sensoranalytics2/build/intermediates/pre-dexed/debug/svg-android-0.4.3-5498e37034e330a615c9cd841cde926461746a45.jar" />
+    </item>
+    <item
+        jar="/Users/apoorvajagadeesh/Downloads/sensoranalytics2/libs/commons-lang3-3.2.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="66f13681add50ca9e4546ffabafaaac7645db3cf">
+        <dex dex="/Users/apoorvajagadeesh/Downloads/sensoranalytics2/build/intermediates/pre-dexed/debug/commons-lang3-3.2.1-dbc7a4af93ffb96414281190bd80b584368696d3.jar" />
+    </item>
+    <item
+        jar="/Users/apoorvajagadeesh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.1/support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="/Users/apoorvajagadeesh/Downloads/sensoranalytics2/build/intermediates/pre-dexed/debug/support-v4-19.0.1-275f9f91799d916aab5e43cb6b4fa30fa62cc0a0.jar" />
+    </item>
+    <item
+        jar="/Users/apoorvajagadeesh/Downloads/sensoranalytics2/libs/graphview-3.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="12c054c623caacf9db0e4b9719b3ebb0e85959aa">
+        <dex dex="/Users/apoorvajagadeesh/Downloads/sensoranalytics2/build/intermediates/pre-dexed/debug/graphview-3.1-ee04d482a7fef317ccb98d5c7920e78b45414288.jar" />
+    </item>
+
+</items>

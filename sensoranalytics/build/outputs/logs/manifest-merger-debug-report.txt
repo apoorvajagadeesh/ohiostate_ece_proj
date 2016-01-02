@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:2:1-67:12
+	xmlns:android
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:3:5-38
+	android:versionName
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:4:5-31
+		INJECTED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml
+		INJECTED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml
+		INJECTED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml
+		INJECTED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:12:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:15:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:17:5-89
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:17:22-86
+uses-permission#android.permission.INTERNET
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:18:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:19:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:20:5-65
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:20:22-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:21:22-65
+uses-feature#android.hardware.camera
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:22:5-60
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:22:19-57
+uses-feature#android.hardware.camera.flash
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:23:19-63
+application
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:27:5-64:19
+	android:label
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:30:9-41
+	android:allowBackup
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:28:9-35
+	android:icon
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:29:9-45
+	android:theme
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:31:9-40
+activity#com.osu.sensoranalytics.MainActivity
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:33:13-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:38:27-74
+activity#com.osu.sensoranalytics.AboutActivity
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:41:9-45:20
+	android:label
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:43:13-57
+	android:parentActivityName
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:44:13-55
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:42:13-65
+activity#com.osu.sensoranalytics.SettingsActivity
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:46:9-53:20
+	android:label
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:48:13-60
+	android:parentActivityName
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:49:13-55
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:47:13-68
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:50:13-52:49
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:51:17-63
+	android:value
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:52:17-46
+receiver#com.osu.sensoranalytics.GpsEventReceiver
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:54:9-62:20
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:54:19-50
+intent-filter#android.location.GPS_ENABLED_CHANGE+android.location.GPS_FIX_CHANGE+android.net.conn.CONNECTIVITY_CHANGE+android.net.wifi.STATE_CHANGE+com.osu.sensoranalytics.AGPS_DATA_EXPIRED
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:55:13-61:29
+action#android.location.GPS_ENABLED_CHANGE
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:56:17-77
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:56:25-75
+action#android.location.GPS_FIX_CHANGE
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:57:17-73
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:57:25-71
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:58:17-78
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:58:25-76
+action#android.net.wifi.STATE_CHANGE
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:59:17-71
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:59:25-69
+action#com.osu.sensoranalytics.AGPS_DATA_EXPIRED
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:60:17-83
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:60:25-81
+service#com.osu.sensoranalytics.PasvLocListenerService
+ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:63:9-120
+	android:exported
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:63:56-80
+	android:stopWithTask
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:63:81-109
+	android:name
+		ADDED from /Users/apoorvajagadeesh/Downloads/sensoranalytics2/AndroidManifest.xml:63:18-55
